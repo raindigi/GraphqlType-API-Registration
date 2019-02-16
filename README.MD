@@ -1,7 +1,7 @@
 
 ## Installation
 
-Clone the repository from one of the versions in the [tags](https://github.com/saurabharch/GraphqlType-API-Registeration/tags)
+Clone the repository from one of the versions in the [tags](https://github.com/saurabharch/GraphqlType-API-Registration/tags)
 
 ## Building
 Before starting building block you need to required these tools and motars for building your scalable GraphQL API endpoint.<br>
@@ -30,4 +30,4 @@ Contact saurabh kashyap (email:saurabh@raindigi.com) for more info on Deployment
 
 - **Saurabh Kashyap** - *War Craftman* - [saurabharch](https://github.com/saurabharch)
 
-Also see a list of contributors here: [Contributors on this repository](https://github.com/saurabharch/GraphqlType-API-Registeration/graphs/contributors)
+Also see a list of contributors here: [Contributors on this repository](https://github.com/saurabharch/GraphqlType-API-Registration/graphs/contributors)
