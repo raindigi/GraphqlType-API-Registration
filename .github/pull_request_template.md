@@ -26,4 +26,4 @@ Note any work that you did to mitigate the effect of any breaking changes such a
 - For enhancements or other issues, please describe, in as much detail as	
 - possible, how the app should be changed, and how this would benefit other users and developers.
 
-#### Feel Free mail us [raindigi](admin@raindigi.com)
+#### Feel Free for mail us [raindigi](mailto:admin@raindigi.com)
