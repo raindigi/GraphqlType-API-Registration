@@ -1,5 +1,5 @@
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraindigi%2FGraphqlType-API-Registration.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraindigi%2FGraphqlType-API-Registration?ref=badge_shield)
-
+[![Open Source Helpers](https://www.codetriage.com/raindigi/graphqltype-api-registration/badges/users.svg)](https://www.codetriage.com/raindigi/graphqltype-api-registration)
 ## Installation
 
 Clone the repository from one of the versions in the [tags](https://github.com/saurabharch/GraphqlType-API-Registration/tags)
