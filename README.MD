@@ -1,3 +1,4 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraindigi%2FGraphqlType-API-Registration.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraindigi%2FGraphqlType-API-Registration?ref=badge_shield)
 
 ## Installation
 
@@ -31,3 +32,5 @@ Contact [saurabh kashyap](mailto:saurabh@raindigi.com) for more info on Deployme
 - **Saurabh Kashyap** - *War Craftman* - [saurabharch](https://github.com/saurabharch)
 
 Also see a list of contributors here: [Contributors on this repository](https://github.com/saurabharch/GraphqlType-API-Registration/graphs/contributors)
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fraindigi%2FGraphqlType-API-Registration.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fraindigi%2FGraphqlType-API-Registration?ref=badge_large)
