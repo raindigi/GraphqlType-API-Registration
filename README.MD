@@ -23,7 +23,7 @@ Then `npm start` to run a local server.
 
 ## Deployment
 
-Contact saurabh kashyap (email:saurabh@raindigi.com) for more info on Deployment.
+Contact [saurabh kashyap](mailto:saurabh@raindigi.com) for more info on Deployment.
 
 ## Contributors
 
