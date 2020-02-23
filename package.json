@@ -19,7 +19,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
-    "graphql": "^14.1.1",
+    "graphql": "^14.6.0",
     "graphql-query-complexity": "^0.2.3",
     "ioredis": "^4.6.2",
     "nodemailer": "^5.1.1",
