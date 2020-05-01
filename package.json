@@ -27,7 +27,8 @@
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.16.0",
     "typeorm": "^0.2.12",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
@@ -53,6 +54,9 @@
   "scripts": {
     "start": "ts-node-dev --respawn src/index.ts",
     "db:setup": "ts-node ./src/test-utils/setup.ts",
-    "test": "npm run db:setup && jest"
-  }
+    "test": "npm run db:setup && jest",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
