@@ -17,7 +17,7 @@
     "class-validator": "^0.9.1",
     "connect-redis": "^3.4.0",
     "cors": "^2.8.5",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "express-session": "^1.15.6",
     "graphql": "^14.1.1",
     "graphql-query-complexity": "^0.2.3",
