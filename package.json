@@ -23,7 +23,7 @@
     "graphql-query-complexity": "^0.2.3",
     "ioredis": "^4.6.2",
     "nodemailer": "^5.1.1",
-    "pg": "^7.8.0",
+    "pg": "^8.4.0",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^0.16.0",
     "typeorm": "^0.2.12",
