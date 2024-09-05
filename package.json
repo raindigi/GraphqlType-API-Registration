@@ -21,12 +21,12 @@
     "express-session": "^1.15.6",
     "graphql": "^14.1.1",
     "graphql-query-complexity": "^0.2.3",
-    "ioredis": "^4.6.2",
+    "ioredis": "^4.10.1",
     "nodemailer": "^5.1.1",
     "pg": "^7.8.0",
     "reflect-metadata": "^0.1.13",
-    "type-graphql": "^0.16.0",
-    "typeorm": "^0.2.12",
+    "type-graphql": "^1.0.0",
+    "typeorm": "^0.3.12",
     "uuid": "^3.3.2"
   },
   "devDependencies": {
